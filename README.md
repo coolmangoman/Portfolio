@@ -1,1 +1,3 @@
-Title: Norman's Portfolio
+# Data Analyst
+### Education
+### Projects
