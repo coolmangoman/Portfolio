@@ -1,1 +1,3 @@
-# Data Analyst
+# Norman Ng
+** Data Analyst
+Hello! I am Norman, nearing the completion of my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data science as an entry-level data specialist. My studies have sharpened my ability to use statistical methods for valuable data analysis. In my free time, I explore new tools and techniques to expand my knowledge. Driven by the thrill of discovery and solving complex problems, I thrive in both team and independent work settings. This repository showcases my skills, projects, and progress in Data Analytics and Data Science.
