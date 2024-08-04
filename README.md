@@ -1,4 +1,4 @@
-# Tianna Parris - Data Analyst Portfolio
+# Norman Ng - Data Analyst Portfolio
 ## About
 Hi, I am Norman! I am on track to completing my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data science as an entry-level data specialist.
 
@@ -9,8 +9,8 @@ My CV in [pdf]().
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](/blob/main/README.md#about)
+- [Portfolio Projects](/blob/main/README.md#portfolio-projects)
   - Python
     - []()
     - [Sales Analysis]()  
