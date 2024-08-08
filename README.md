@@ -61,8 +61,9 @@ Aug 2022 - July 2026
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate]() () (Coursera - Google)
-
+- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5LVHDLEPEE5V) (Aug 2024)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UTSJHUXORMK6) (Feb 2024)
+  
 ## Contacts
 - LinkedIn: [Norman Ng](https://www.linkedin.com/in/norman-ng-kai-meng/)
 - Email: norman.ng@u.nus.edu
