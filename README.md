@@ -27,17 +27,17 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Examining the Causes of Employee Attrition
-**Code:** [`.ipynb`]()
+**Code:** [`employee_attrition.ipynb`](https://github.com/coolmangoman/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
 
-**Goal:** To determine what factors
+**Goal:** To analyse the factors leading to employee attrition and provide useful insights for future model-building.
 
-**Description:** 
+**Description:** Using a fictional dataset from IBM, the analysis involves cleaning and exploring the data, followed by visualizing relationships between attrition and variables like job level, income, and department. The project concludes with recommendations for building a predictive model and addressing data inconsistencies for more accurate analysis.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data cleaning, data analysis, hypothesis testing, data visualisation.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** The analysis revealed that the employee's job level and income bracket appear to be most strongly correlated with whether or not the employee leaves, while factors like job involvement, total working years, and whether or not the worker has been promoted in the last 5 years having little correlation.
 
 ### Tech Store Sales Analysis
 
