@@ -9,24 +9,24 @@ My CV in [pdf]().
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](/main/README.md#about)
-- [Portfolio Projects](/main/README.md#portfolio-projects)
+- [About](https://github.com/coolmangoman/Portfolio/main/README.md#about)
+- [Portfolio Projects](https://github.com/coolmangoman/Portfolio/main/README.md#portfolio-projects)
   - Python
-    - [Employee Attrition Analysis](/main/README.md#examining-the-causes-of-employee-attrition)
-    - [Sales Analysis]()  
+    - [Employee Attrition Analysis](https://github.com/coolmangoman/Portfolio/main/README.md#examining-the-causes-of-employee-attrition)
+    - [project name](project link)  
   - SQL
     - []()
     - []()
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..]()
 
-- [Education](/blob/main/README.md#education)  
-- [Certificates](/blob/main/README.md#certificates)
-- [Contact](/blob/main/README.md#contacts)
+- [Education](https://github.com/coolmangoman/Portfolio/main/README.md#education)  
+- [Certificates](https://github.com/coolmangoman/Portfolio/main/README.md#certificates)
+- [Contact](https://github.com/coolmangoman/Portfolio/main/README.md#contacts)
+  
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Examining the Causes of Employee Attrition
+
 **Code:** [`employee_attrition.ipynb`](https://github.com/coolmangoman/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
 
 **Goal:** To analyse the factors leading to employee attrition and provide useful insights for future model-building.
@@ -54,10 +54,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
-
-
-
-
 ## Education
 National University of Singapore: 
 Bachelor's degree, Economics
@@ -68,5 +64,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Google Data Analytics Professional Certificate]() () (Coursera - Google)
 
 ## Contacts
-- LinkedIn: [@normanng01](https://www.linkedin.com/in/)
+- LinkedIn: [Norman Ng](https://www.linkedin.com/in/norman-ng-kai-meng/)
 - Email: norman.ng@u.nus.edu
