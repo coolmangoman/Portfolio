@@ -12,10 +12,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/coolmangoman/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/coolmangoman/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Employee Attrition Analysis](https://github.com/coolmangoman/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
-    - [project name](project link)  
+    - [Employee Attrition Analysis](https://github.com/coolmangoman/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition) 
   - SQL
-    - []()
     - []()
 
 - [Education](https://github.com/coolmangoman/Portfolio/blob/main/README.md#education)  
