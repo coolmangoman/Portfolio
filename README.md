@@ -57,7 +57,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## Education
 National University of Singapore: 
 Bachelor's degree, Economics
-Aug 2022 - July 2026
+(Aug 2022 - Jul 2026)
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
