@@ -9,10 +9,10 @@ My CV in [pdf]().
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](/blob/main/README.md#about)
-- [Portfolio Projects](/blob/main/README.md#portfolio-projects)
+- [About](/main/README.md#about)
+- [Portfolio Projects](/main/README.md#portfolio-projects)
   - Python
-    - []()
+    - [Employee Attrition Analysis](/main/README.md#examining-the-causes-of-employee-attrition)
     - [Sales Analysis]()  
   - SQL
     - []()
