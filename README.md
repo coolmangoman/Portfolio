@@ -9,18 +9,18 @@ My CV in [pdf]().
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/coolmangoman/Portfolio/main/README.md#about)
-- [Portfolio Projects](https://github.com/coolmangoman/Portfolio/main/README.md#portfolio-projects)
+- [About](https://github.com/coolmangoman/Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/coolmangoman/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Employee Attrition Analysis](https://github.com/coolmangoman/Portfolio/main/README.md#examining-the-causes-of-employee-attrition)
+    - [Employee Attrition Analysis](https://github.com/coolmangoman/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
     - [project name](project link)  
   - SQL
     - []()
     - []()
 
-- [Education](https://github.com/coolmangoman/Portfolio/main/README.md#education)  
-- [Certificates](https://github.com/coolmangoman/Portfolio/main/README.md#certificates)
-- [Contact](https://github.com/coolmangoman/Portfolio/main/README.md#contacts)
+- [Education](https://github.com/coolmangoman/Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/coolmangoman/Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/coolmangoman/Portfolio/blob/main/README.md#contacts)
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
