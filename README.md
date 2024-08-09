@@ -4,28 +4,26 @@ Hi, I am Norman! I am on track to completing my Economics degree with a speciali
 
 In my free time, I explore new tools and techniques to expand my knowledge. Driven by the thrill of discovery and solving complex problems, I thrive in both team and independent work settings. This repository showcases my skills, projects, and progress in Data Analytics and Data Science.
 
-My CV in [pdf]().
-
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/coolmangoman/Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/coolmangoman/Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/nrmnng/Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/nrmnng/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Employee Attrition Analysis](https://github.com/coolmangoman/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition) 
+    - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition) 
   - SQL
     - []()
 
-- [Education](https://github.com/coolmangoman/Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/coolmangoman/Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/coolmangoman/Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Examining the Causes of Employee Attrition
 
-**Code:** [`employee_attrition.ipynb`](https://github.com/coolmangoman/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
+**Code:** [`employee_attrition.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
 
 **Goal:** To analyse the factors leading to employee attrition and provide useful insights for future model-building.
 
