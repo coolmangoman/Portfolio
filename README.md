@@ -11,9 +11,6 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/nrmnng/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition) 
-  - SQL
-    - []()
-
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
@@ -35,20 +32,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The analysis revealed that the employee's job level and income bracket appear to be most strongly correlated with whether or not the employee leaves, while factors like job involvement, total working years, and whether or not the worker has been promoted in the last 5 years having little correlation.
 
-
-### Tech Store Sales Analysis
-
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-
-**Code:** []()
-
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
-
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
-
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
 ## Education
 National University of Singapore: 
