@@ -10,7 +10,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/nrmnng/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/nrmnng/Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition) 
+    - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
+  - Tableau
+    - [Top Netflix Korean Dramas of 2023](https://public.tableau.com/app/profile/norman.ng4484/viz/NetflixKoreanDramas/Dashboard1#1) 
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
@@ -24,7 +26,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To analyse the factors leading to employee attrition and provide useful insights for future model-building.
 
-**Description:** Using a fictional dataset from IBM, the analysis involves cleaning and exploring the data, followed by visualizing relationships between attrition and variables like job level, income, and department. The project concludes with recommendations for building a predictive model and addressing data inconsistencies for more accurate analysis.
+**Description:** Using a fictional dataset from IBM, the analysis involves cleaning and exploring the data, followed by visualising relationships between attrition and variables like job level, income, and department. The project concludes with recommendations for building a predictive model and addressing data inconsistencies for more accurate analysis.
 
 **Skills:** data cleaning, data analysis, hypothesis testing, data visualisation.
 
@@ -32,6 +34,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The analysis revealed that the employee's job level and income bracket appear to be most strongly correlated with whether or not the employee leaves, while factors like job involvement, total working years, and whether or not the worker has been promoted in the last 5 years having little correlation.
 
+### Top Netflix Korean Dramas of 2023
+
+**Link:** [`NetflixKdramaDashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/NetflixKoreanDramas/Dashboard1#1)
+
+**Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on Netflix.
+
+**Description:** Using Netflix's 2023 engagement report and data scraped from Korean drama database 'mydramalist', this analysis involved cleaning and joining two datasets on SQL, before using Tableau to visualise how various factors affect a Korean drama's rating and viewership.
+
+**Skills:** data cleaning, data visualisation.
+
+**Technology:** PostgreSQL, Tableau
+
+**Results:** For Korean dramas, the top 3 genres (with more than 10 titles) in average viewership over the first half of 2023 on Netflix are Political, Sci-Fi, and Melodrama. The Glory was overwhelmingly popular, with almost three times the viewership of the 2nd-place drama. Korean dramas with fewer episodes tended to have higher viewerships (8 and 12 vs. 16).
 
 ## Education
 National University of Singapore: 
