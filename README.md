@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
   - Tableau
-    - [Top Netflix Korean Dramas of 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#top-netflix-korean-dramas-of-2023-jan-july) 
+    - [Top Netflix Korean Dramas of 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#top-netflix-korean-dramas-of-2023-jan-jun) 
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
@@ -34,9 +34,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The analysis revealed that the employee's job level and income bracket appear to be most strongly correlated with whether or not the employee leaves, while factors like job involvement, total working years, and whether or not the worker has been promoted in the last 5 years having little correlation.
 
-### Top Netflix Korean Dramas of 2023 Jan-July
+### Top Netflix Korean Dramas of 2023 Jan-Jun
 
-**Link:** [`NetflixKdramaDashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/NetflixKoreanDramas/Dashboard1#1)
+**Link:** [`Netflix KDrama Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/NetflixKoreanDramas2023Jan-June/Main-Dashboard)
 
 **Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on Netflix.
 
