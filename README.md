@@ -36,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Top Netflix Korean Dramas of 2023 Jan-Jun
 
-**Link:** [`Netflix KDrama Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/NetflixKoreanDramas2023Jan-June/Main-Dashboard)
+**Link:** [`Netflix KDrama Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/NetflixKoreanDramas2023Jan-Jun/MainDashboard#1)
 
 **Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on Netflix.
 
