@@ -1,6 +1,6 @@
 # Norman Ng - Data Analyst Portfolio
 ## About
-Hi, I am Norman! I am on track to completing my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data analytics as an entry-level data specialist.
+Hello, I am Norman! I am on track to completing my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data analytics as an entry-level data specialist.
 
 In my free time, I explore new tools and techniques to expand my knowledge. This repository showcases my skills, projects, and progress in Data Analytics.
 
@@ -49,7 +49,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Analysing Superstore Sales
 
-**Code:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/superstore-sales/sales.ipynb)
+**Code:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/superstore_sales/sales.ipynb)
 
 **Link:** [`Superstore Sales Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/SuperstoreSales_17238031775140/SalesDashboard)
 
