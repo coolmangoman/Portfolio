@@ -1,10 +1,8 @@
 # Norman Ng - Data Analyst Portfolio
 ## About
-Hi, I am Norman! I am on track to completing my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data science as an entry-level data specialist.
+Hi, I am Norman! I am on track to completing my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data analytics as an entry-level data specialist.
 
-In my free time, I explore new tools and techniques to expand my knowledge. Driven by the thrill of discovery and solving complex problems, I thrive in both team and independent work settings. This repository showcases my skills, projects, and progress in Data Analytics and Data Science.
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+In my free time, I explore new tools and techniques to expand my knowledge. This repository showcases my skills, projects, and progress in Data Analytics.
 
 ## Table of Contents
 - [About](https://github.com/nrmnng/Portfolio/blob/main/README.md#about)
@@ -12,7 +10,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
   - Tableau
-    - [Top Netflix Korean Dramas of 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#top-netflix-korean-dramas-of-2023-jan-jun) 
+    - [Top Netflix Korean Dramas of 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#top-netflix-korean-dramas-of-2023-jan-jun)
+    - [Superstore Sales Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#analysing-superstore-sales)
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
@@ -48,13 +47,29 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** For Korean dramas, the top 3 genres (with more than 10 titles) in average viewership over the first half of 2023 on Netflix are Political, Sci-Fi, and Melodrama. Drama 'The Glory' was overwhelmingly popular, with almost three times the viewership of the 2nd-place drama. Korean dramas with fewer episodes tended to have higher viewerships (8 and 12 vs. 16).
 
+### Analysing Superstore Sales
+
+**Code:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/employee_attrition/sales.ipynb)
+
+**Link:** [`Superstore Sales Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/SuperstoreSales_17238031775140/SalesDashboard)
+
+**Goal:** To build a dashboard for upper management showcasing key figures and trends in Sales metrics such as revenue, profit, and average order value.
+
+**Description:** In this 2-part project, I first cleaned two 'Orders' and 'Returns' datasets on Python, before using Tableau to visualise Sales data through the construction of a dashbaord.
+
+**Skills:** data cleaning, data transformation, data visualisation
+
+**Technology:** Python, Tableau
+
+**Results:** In the dashboard, stakeholders first pick a metric to view (e.g Revenue, Profit, Order Volume). The dashboard displays the metric sliced across different dimensions like monthly sales, sales across different geographical locations and market segments. Several filters allow stakeholders to see sales performance from specific timeframes, continents, or product categories.
+
+
 ## Education
 National University of Singapore: 
 Bachelor's degree, Economics
 (Aug 2022 - Jul 2026)
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5LVHDLEPEE5V) (Aug 2024)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/UTSJHUXORMK6) (Feb 2024)
   
