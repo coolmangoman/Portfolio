@@ -1,23 +1,40 @@
 # Norman Ng - Data Analyst Portfolio
 ## About
-Hello, I am Norman! I am on track to completing my Economics degree with a specialization in Quantitative Methods. I am passionate about using data to uncover meaningful trends and excited to apply my analytical skills to data analytics as an entry-level data specialist.
+Hello, I'm Norman! I’m currently completing a degree in Economics with a specialization in Quantitative Methods. I have a strong passion for transforming data into actionable insights and am eager to apply my analytical skills to a data analyst or data engineer intern role.
 
-In my free time, I explore new tools and techniques to expand my knowledge. This repository showcases my skills, projects, and progress in Data Analytics.
+Throughout my academic journey, I’ve honed my ability to uncover meaningful trends and patterns, utilizing advanced statistical techniques and data visualization tools. My enthusiasm for continuous learning drives me to explore new technologies and methodologies, ensuring I stay at the forefront of the data field.
+
+This repository is a reflection of my commitment to excellence, showcasing my skills, projects, and ongoing development in data analytics and engineering. I’m excited to contribute my knowledge and drive to a dynamic team, leveraging data to solve real-world challenges.
 
 ## Table of Contents
 - [About](https://github.com/nrmnng/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/nrmnng/Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
-    - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
-  - Tableau
-    - [Superstore Sales Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#analysing-superstore-sales)
-    - [Korean Dramas on Demand 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#korean-dramas-on-demand-2023)
+- [Korean Dramas on Demand 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#korean-dramas-on-demand-2023)
+  - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
+  - [Superstore Sales Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#analysing-superstore-sales)
+
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
   
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Korean Dramas on Demand 2023
+
+**Code:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
+
+**Link:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
+
+**Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on streaming platforms in 2023.
+
+**Description:** Using data scraped from two websites, 'FlixPatrol' and 'MyDramaList', this project involved cleaning and joining two datasets on Python, before using Tableau to visualise how various factors affect a Korean drama's rating and viewership.
+
+**Skills:** data cleaning, data transformation, data visualisation
+
+**Technology:** Python, Tableau
+
+**Results:** Despite many dramas having 16 episodes, those with less episodes (namely 10 and 12) tended to have higher viewership. The genres attracting the highest viewership are Family, Military, Action and Adventure. More gritty dramas such as Military, Crime and Psychological Dramas had higher average audience ratings.
+
 
 ### Examining the Causes of Employee Attrition
 
@@ -49,23 +66,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Tableau
 
 **Results:** In the dashboard, stakeholders first pick a metric to view (e.g Revenue, Profit, Order Volume). The dashboard displays the metric sliced across different dimensions like monthly sales, sales across different geographical locations and market segments. Several filters allow stakeholders to see sales performance from specific timeframes, continents, or product categories.
-
-
-### Korean Dramas on Demand 2023
-
-**Code:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
-
-**Link:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
-
-**Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on streaming platforms in 2023.
-
-**Description:** Using data scraped from two websites, 'FlixPatrol' and 'MyDramaList', this project involved cleaning and joining two datasets on Python, before using Tableau to visualise how various factors affect a Korean drama's rating and viewership.
-
-**Skills:** data cleaning, data transformation, data visualisation
-
-**Technology:** Python, Tableau
-
-**Results:** Despite many dramas having 16 episodes, those with less episodes (namely 10 and 12) tended to have higher viewership. The genres attracting the highest viewership are Family, Military, Action and Adventure. More gritty dramas such as Military, Crime and Psychological Dramas had higher average audience ratings.
 
 
 ## Education
