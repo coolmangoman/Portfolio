@@ -34,8 +34,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Technology:** Python, Tableau
 
 **Results:** Despite many dramas having 16 episodes, those with less episodes (namely 10 and 12) tended to have higher viewership. The genres attracting the highest viewership are Family, Military, Action and Adventure. More gritty dramas such as Military, Crime and Psychological Dramas had higher average audience ratings.
-
-
+---
 ### Examining the Causes of Employee Attrition
 
 **Code:** [`employee_attrition.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
@@ -49,8 +48,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit
 
 **Results:** The analysis revealed that the employee's job level and income bracket appear to be most strongly correlated with whether or not the employee leaves, while factors like job involvement, total working years, and whether or not the worker has been promoted in the last 5 years having little correlation.
-
-
+---
 ### Analysing Superstore Sales
 
 **Code:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/superstore_sales/sales.ipynb)
