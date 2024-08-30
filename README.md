@@ -34,6 +34,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Technology:** Python, Tableau
 
 **Results:** Despite many dramas having 16 episodes, those with less episodes (namely 10 and 12) tended to have higher viewership. The genres attracting the highest viewership are Family, Military, Action and Adventure. More gritty dramas such as Military, Crime and Psychological Dramas had higher average audience ratings.
+
 ---
 ### Examining the Causes of Employee Attrition
 
@@ -48,6 +49,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit
 
 **Results:** The analysis revealed that the employee's job level and income bracket appear to be most strongly correlated with whether or not the employee leaves, while factors like job involvement, total working years, and whether or not the worker has been promoted in the last 5 years having little correlation.
+
 ---
 ### Analysing Superstore Sales
 
@@ -65,7 +67,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 
 **Results:** In the dashboard, stakeholders first pick a metric to view (e.g Revenue, Profit, Order Volume). The dashboard displays the metric sliced across different dimensions like monthly sales, sales across different geographical locations and market segments. Several filters allow stakeholders to see sales performance from specific timeframes, continents, or product categories.
 
-
+---
 ## Education
 National University of Singapore: 
 Bachelor's degree, Economics
