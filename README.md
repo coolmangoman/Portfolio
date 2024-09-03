@@ -9,10 +9,9 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 ## Table of Contents
 - [About](https://github.com/nrmnng/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/nrmnng/Portfolio/blob/main/README.md#portfolio-projects)
-- [Korean Dramas on Demand 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#korean-dramas-on-demand-2023)
+  - [Korean Dramas on Demand 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#korean-dramas-on-demand-2023)
   - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
   - [Superstore Sales Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#analysing-superstore-sales)
-
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/nrmnng/Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/nrmnng/Portfolio/blob/main/README.md#contacts)
