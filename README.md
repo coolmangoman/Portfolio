@@ -20,7 +20,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 
 ### Korean Dramas on Demand 2023
 
-**Code:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
+**Code Notebook:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
 
 **Link:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
 
@@ -37,7 +37,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 ---
 ### Examining the Causes of Employee Attrition
 
-**Code:** [`employee_attrition.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
+**Code Notebook:** [`employee_attrition.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/employee_attrition/employee_attrition.ipynb)
 
 **Goal:** To analyse the factors leading to employee attrition and provide useful insights for future model-building.
 
@@ -52,7 +52,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 ---
 ### Analysing Superstore Sales
 
-**Code:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/superstore_sales/sales.ipynb)
+**Code Notebook:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/superstore_sales/sales.ipynb)
 
 **Link:** [`Superstore Sales Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/SuperstoreSales_17238031775140/SalesDashboard)
 
