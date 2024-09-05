@@ -22,7 +22,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 
 **Code Notebook:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
 
-**Link:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
+**Dashboard:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
 
 **Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on streaming platforms in 2023.
 
@@ -54,7 +54,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 
 **Code Notebook:** [`superstore_sales.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/superstore_sales/sales.ipynb)
 
-**Link:** [`Superstore Sales Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/SuperstoreSales_17238031775140/SalesDashboard)
+**Dashboard:** [`Superstore Sales Dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/SuperstoreSales_17238031775140/SalesDashboard)
 
 **Goal:** To build a dashboard for upper management showcasing key figures and trends in Sales metrics such as revenue, profit, and average order value.
 
