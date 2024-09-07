@@ -9,8 +9,8 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 ## Table of Contents
 - [About](https://github.com/nrmnng/Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/nrmnng/Portfolio/blob/main/README.md#portfolio-projects)
-  - [Korean Dramas on Demand 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#korean-dramas-on-demand-2023)
   - [MRT Trip Data Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#mrt-trip-data-analysis)
+  - [Korean Dramas on Demand 2023](https://github.com/nrmnng/Portfolio/blob/main/README.md#korean-dramas-on-demand-2023)
   - [Employee Attrition Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#examining-the-causes-of-employee-attrition)
   - [Superstore Sales Analysis](https://github.com/nrmnng/Portfolio/blob/main/README.md#analysing-superstore-sales)
 - [Education](https://github.com/nrmnng/Portfolio/blob/main/README.md#education)  
@@ -19,19 +19,6 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
   
 ## Portfolio Projects
 
-### Korean Dramas on Demand 2023
-
-**Code Notebook:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
-
-**Dashboard:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
-
-**Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on streaming platforms in 2023.
-
-**Summary:**
-- Extracted data from two online drama databases 'MyDramaList' and 'FlixPatrol'
-- Cleaned, joined and visualised drama data using Python and Tableau, discovering insights such as dramas with fewer episodes having higher viewership and gritty dramas with genres like Military, Crime and Psychological having higher audience ratings.
-
----
 ### MRT Trip Data Analysis
 
 **Code Notebook:** [`origin_destination.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/mrt/origin_destination.ipynb)
@@ -44,6 +31,19 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 - Extracted data from LTA's DataMall API and other online sources before transforming and joining them using Python Pandas library.
 - Built an interactive Tableau dashboard to visualise the most frequent travel routes from selected stations, allowing users to filter by commute time, origin, and top destinations.
 - Provided insights for optimising transportation services by identifying high-traffic routes, including top destinations like Yishun and Orchard from Ang Mo Kio.
+
+---
+### Korean Dramas on Demand 2023
+
+**Code Notebook:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/kdramas/kdramas.ipynb)
+
+**Dashboard:** [`kdrama_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/UnderratedOverratedKoreanDramas2023/MainFigure#1)
+
+**Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on streaming platforms in 2023.
+
+**Summary:**
+- Extracted data from two online drama databases 'MyDramaList' and 'FlixPatrol'
+- Cleaned, joined and visualised drama data using Python and Tableau, discovering insights such as dramas with fewer episodes having higher viewership and gritty dramas with genres like Military, Crime and Psychological having higher audience ratings.
 
 ---
 ### Examining the Causes of Employee Attrition
