@@ -1,8 +1,8 @@
-# Norman Ng - Data Analyst Portfolio
+# Norman Ng - Data Analyst/Engineer Portfolio
 ## About
-Hello, I'm Norman! I’m currently completing a degree in Economics with a specialization in Quantitative Methods. I have a strong passion for transforming data into actionable insights and am eager to apply my analytical skills to a data analyst or data engineer intern role.
+Hello, I'm Norman! I’m currently completing a degree in Economics with a specialization in Quantitative Methods. I have a strong passion for transforming disparate data into actionable insights and am eager to apply my analytical skills to a data analyst or data engineer intern role.
 
-Throughout my academic journey, I’ve honed my ability to uncover meaningful trends and patterns, utilizing advanced statistical techniques and data visualization tools. My enthusiasm for continuous learning drives me to explore new technologies and methodologies, ensuring I stay at the forefront of the data field.
+Throughout my academic journey, I’ve honed my ability to uncover meaningful trends and patterns, utilising advanced statistical techniques and data visualisation tools. My enthusiasm for continuous learning drives me to explore new technologies and methodologies, ensuring I stay at the forefront of the data field.
 
 This repository is a reflection of my commitment to excellence, showcasing my skills, projects, and ongoing development in data analytics and engineering. I’m excited to contribute my knowledge and drive to a dynamic team, leveraging data to solve real-world challenges.
 
