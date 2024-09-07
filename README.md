@@ -34,7 +34,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 ---
 ### MRT Trip Data Analysis
 
-**Code Notebook:** [`kdramas.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/mrt/origin_destination.ipynb)
+**Code Notebook:** [`origin_destination.ipynb`](https://github.com/nrmnng/Portfolio/blob/main/projects/mrt/origin_destination.ipynb)
 
 **Dashboard:** [`mrt_dashboard`](https://public.tableau.com/app/profile/norman.ng4484/viz/SGMRTTripsMay2024/Outbound)
 
