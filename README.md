@@ -42,8 +42,9 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Goal:** To analyse how factors like genre and number of episodes affect the rating and viewership of Korean Dramas on streaming platforms in 2023.
 
 **Summary:**
-- Extracted data from two online drama databases 'MyDramaList' and 'FlixPatrol'
-- Cleaned, joined and visualised drama data using Python and Tableau, discovering insights such as dramas with fewer episodes having higher viewership and gritty dramas with genres like Military, Crime and Psychological having higher audience ratings.
+- Extracted and cleaned data from 'MyDramaList' and 'FlixPatrol' to analyse factors influencing Korean drama ratings and viewership.
+- Discovered that dramas with fewer episodes had higher viewership, while genres like Military, Crime, and Psychological scored higher audience ratings.
+- Visualised these insights in an interactive Tableau dashboard for data exploration.
 
 ---
 ### Examining the Causes of Employee Attrition
@@ -53,8 +54,8 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Goal:** To analyse the factors leading to employee attrition and provide useful insights for future model-building.
 
 **Summary:** 
-- Cleaned and transformed data employee data before visualising relationships between attrition and variables like job level, income, and department.
-- Discovered critical insights such as employee's job level and income bracket being strongly correlated with attrition.
+- Cleaned and transformed employee data to explore factors influencing attrition, such as job level, income, and department.
+- Found strong correlations between attrition rates and both job level and income, providing key insights for model-building and retention strategies.
 
 ---
 ### Analysing Superstore Sales
@@ -66,8 +67,8 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 **Goal:** To build a dashboard for upper management showcasing key figures and trends in Sales metrics such as revenue, profit, and average order value.
 
 **Summary:**
-- Cleaned sales data using Python
-- Constructed a dynamic dashboard that displays key sales metrics sliced across different dimensions like time, location, and market segments, with filtering options
+- Cleaned sales data and built an interactive Tableau dashboard displaying key sales metrics like revenue, profit, and average order value.
+- Enabled slicing and filtering of sales data by time, location, and market segments, helping upper management identify trends and optimize decision-making.
 
 ---
 ## Education
