@@ -28,7 +28,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 
 **Summary:**
 - Extracted data from two online drama databases 'MyDramaList' and 'FlixPatrol'
-- Cleaned, joined and visualised drama data using Python and Tableau, discovering insights such as dramas with fewer episodes having higher viewership and gritty dramas such as Military, Crime and Psychological Dramas having audience ratings.
+- Cleaned, joined and visualised drama data using Python and Tableau, discovering insights such as dramas with fewer episodes having higher viewership and gritty dramas with genres like Military, Crime and Psychological having higher audience ratings.
 
 ---
 ### Examining the Causes of Employee Attrition
@@ -39,7 +39,7 @@ This repository is a reflection of my commitment to excellence, showcasing my sk
 
 **Summary:** 
 - Cleaned and transformed data employee data before visualising relationships between attrition and variables like job level, income, and department.
-- Discovered critical insights such as employee's job level and income bracket being strongly correlated with attrition
+- Discovered critical insights such as employee's job level and income bracket being strongly correlated with attrition.
 
 ---
 ### Analysing Superstore Sales
